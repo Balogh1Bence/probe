@@ -10,7 +10,8 @@ namespace egész_számok
     {
         static void Main(string[] args)
         {
-
+            int a;
+            int b;
         }
     }
 }
