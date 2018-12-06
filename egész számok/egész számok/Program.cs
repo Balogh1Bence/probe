@@ -12,6 +12,8 @@ namespace egész_számok
         {
             int a=0;
             int b=1;
+            Console.WriteLine("a="+a+", b="+b);
+            Console.ReadKey();
         }
     }
 }
